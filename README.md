@@ -1,0 +1,4 @@
+Pequeña Página Web desarrollada por Leandro Hernan Luna, en la cual vamos a encontrar un menu de navegacion flotante, diversos videojuegos Retro, junto a sus descripciones y gameplays de los mismos en ventanas modales. 
+Tambien, vamos a ver los comentarios/reviews de la "gente". 
+Por ultimo, tenemos un formulario de contacto totalmente funcional con Formspree y un Footer basico con "Redes Sociales" funcional que, por esta vez, unicamente abre otra ventana en el navegador a la pagina principal de la Red Social seleccionada. 
+No esta de más mencionarlo, pero tambien tiene la opcion "Responsive" para celulares de momento.
