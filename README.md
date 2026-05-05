@@ -20,7 +20,7 @@ El proyecto fue construido utilizando tecnologías fundamentales de Front-End:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🔗 Vista en Vivo (Deploy)
+## 🔗 Vista en Vivo
 
 El proyecto se encuentra desplegado y funcionando a través de Netlify. Podés explorarlo y probar la interactividad haciendo clic en el siguiente enlace:
 
