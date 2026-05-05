@@ -30,4 +30,4 @@ El proyecto se encuentra desplegado y funcionando a través de Netlify. Podés e
 
 ## 👨‍💻 Autor
 
-Desarrollado con pasión por **Leandro Hernan Luna**.
+Desarrollado por **Leandro Hernan Luna**.
