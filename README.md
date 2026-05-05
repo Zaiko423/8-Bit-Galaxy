@@ -1,6 +1,6 @@
 # 👾 8-Bit Galaxy
 
-¡Bienvenido a **8-Bit Galaxy**! Una plataforma web dedicada a revivir la nostalgia de los videojuegos clásicos.
+¡Bienvenido a **8-Bit Galaxy**!
 
 Esta página web fue desarrollada como proyecto de pre-entrega. En ella vas a encontrar un catálogo de juegos retro, reseñas de la comunidad y un medio de contacto directo, todo bajo una estética oscura y "gamer".
 
