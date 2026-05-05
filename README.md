@@ -1,4 +1,33 @@
-Pequeña Página Web desarrollada por Leandro Hernan Luna, en la cual vamos a encontrar un menu de navegacion flotante, diversos videojuegos Retro, junto a sus descripciones y gameplays de los mismos en ventanas modales. 
-Tambien, vamos a ver los comentarios/reviews de la "gente". 
-Por ultimo, tenemos un formulario de contacto totalmente funcional con Formspree y un Footer basico con "Redes Sociales" funcional que, por esta vez, unicamente abre otra ventana en el navegador a la pagina principal de la Red Social seleccionada. 
-No esta de más mencionarlo, pero tambien tiene la opcion "Responsive" para celulares de momento.
+# 👾 8-Bit Galaxy
+
+¡Bienvenido a **8-Bit Galaxy**! Una plataforma web dedicada a revivir la nostalgia de los videojuegos clásicos.
+
+Esta página web fue desarrollada como proyecto de pre-entrega. En ella vas a encontrar un catálogo de juegos retro, reseñas de la comunidad y un medio de contacto directo, todo bajo una estética oscura y "gamer".
+
+## ✨ Características Principales
+
+* **Navegación Fluida:** Menú de navegación flotante (sticky header) para moverte fácilmente por las distintas secciones.
+* **Catálogo Interactivo:** Tarjetas de videojuegos que, al hacer clic, despliegan ventanas modales flotantes con gameplays de YouTube incrustados. *(¡Logrado exclusivamente con puro CSS, sin utilizar JavaScript!)*.
+* **Reseñas de la Comunidad:** Sección de comentarios de usuarios organizada de forma estructurada utilizando CSS Grid.
+* **Contacto Real:** Formulario de contacto 100% funcional integrado a través de la API de [Formspree](https://formspree.io/).
+* **Diseño Responsive:** Interfaz totalmente adaptable a dispositivos móviles (celulares) mediante Media Queries.
+* **Footer Social:** Enlaces directos a redes sociales (Twitch, Instagram, YouTube) configurados para abrir en nuevas pestañas.
+
+## 🚀 Tecnologías Utilizadas
+
+El proyecto fue construido utilizando tecnologías fundamentales de Front-End:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🔗 Vista en Vivo (Deploy)
+
+El proyecto se encuentra desplegado y funcionando a través de Netlify. Podés explorarlo y probar la interactividad haciendo clic en el siguiente enlace:
+
+🚀 **[Ver 8-Bit Galaxy en vivo](https://8-bitgalaxy.netlify.app/)**
+
+---
+
+## 👨‍💻 Autor
+
+Desarrollado con pasión por **Leandro Hernan Luna**.
