@@ -22,9 +22,9 @@ El proyecto fue construido utilizando tecnologías fundamentales de Front-End:
 
 ## 🔗 Vista en Vivo
 
-El proyecto se encuentra desplegado y funcionando a través de Netlify. Podés explorarlo y probar la interactividad haciendo clic en el siguiente enlace:
+El proyecto se encuentra alojado y funcionando a través de GitHub Pages. Podés explorarlo y probar la interactividad haciendo clic en el siguiente enlace:
 
-🚀 **[Ver 8-Bit Galaxy en vivo](https://8-bitgalaxy.netlify.app/)**
+🚀 **[Ver 8-Bit Galaxy en vivo](https://zaiko423.github.io/8-Bit-Galaxy/)**
 
 ---
 
